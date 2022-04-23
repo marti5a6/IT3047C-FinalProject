@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Home\\Explore.cshtml",
+      "TargetPath": "Views\\Home\\Explore.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Artist\\Add.cshtml",
       "TargetPath": "Views\\Artist\\Add.cshtml",
       "FileKind": "mvc"
@@ -14434,6 +14439,11 @@
     {
       "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
       "FileKind": "mvc"
     },
     {
