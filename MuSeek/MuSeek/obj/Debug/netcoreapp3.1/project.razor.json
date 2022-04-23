@@ -14402,8 +14402,18 @@
   "RootNamespace": "MuSeek",
   "Documents": [
     {
+      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Artist\\Remove.cshtml",
+      "TargetPath": "Views\\Artist\\Remove.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Artist\\Add.cshtml",
+      "TargetPath": "Views\\Artist\\Add.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14429,16 +14439,6 @@
     {
       "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Documents\\GitHub\\IT3047C-FinalProject\\MuSeek\\MuSeek\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
